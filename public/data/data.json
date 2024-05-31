@@ -1,0 +1,47 @@
+{
+  "users": [
+    {
+      "id": "ad3",
+      "username": "example",
+      "password": "123"
+    },
+    {
+      "id": "cca1",
+      "username": "Lucaas",
+      "password": "1234"
+    },
+    {
+      "id": "207b",
+      "username": "efe",
+      "password": "321"
+    },
+    {
+      "id": "c563",
+      "username": "ED",
+      "password": "554"
+    }
+  ],
+  "movies": [
+    {
+      "id": "1",
+      "title": "Inception",
+      "releaseYear": 2010,
+      "genre": "Sci-Fi",
+      "urlImage": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p7825626_p_v8_ae.jpg"
+    },
+    {
+      "id": "2",
+      "title": "The Matrix",
+      "releaseYear": 1999,
+      "genre": "Action",
+      "urlImage": "https://m.media-amazon.com/images/I/71PfZFFz9yL._AC_SL1000_.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Interstellar",
+      "releaseYear": 2014,
+      "genre": "Adventure",
+      "urlImage": "https://m.media-amazon.com/images/I/71thymE6lwL._AC_UF894,1000_QL80_.jpg"
+    }
+  ]
+}
